@@ -117,7 +117,7 @@ function App() {
           <div className='flex-section'>
            <img className='vr-goggles' src={mobileHero} alt='mobile-interactive'/>
             <div className='hero-intro'>
-              <h1>THE LEADER IN <br></br> INTERACTIVE VR </h1>
+              <h1 className='hero-ban-intro'>THE LEADER IN <br></br> INTERACTIVE VR </h1>
               <p className='hero-paragraph'>
                 Founded in 2011, Loopstudios has been producing world-class 
                 virtual reality projects for some of the best companies around the 

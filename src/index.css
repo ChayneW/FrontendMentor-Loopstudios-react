@@ -350,6 +350,10 @@ body {
     justify-content: center;
   }
 
+  .hero-ban-intro {
+    margin-top: 20px;
+  }
+
   .hero-paragraph {
     margin: 0px 40px;
     text-align: left;
